@@ -25,7 +25,7 @@ I specialize in designing and implementing end-to-end data solutions that handle
 - ✅ Building production-grade data pipelines (ETL/ELT)
 - ✅ Machine Learning & Predictive Analytics
 - ✅ Data Warehousing & Database Design
-- ✅ Cloud Data Platforms (AWS, GCP, Azure)
+- ✅ Cloud Data Platforms (AWS, Azure)
 - ✅ Data Visualization & Business Intelligence
 - ✅ SQL & Advanced Query Optimization
 - ✅ Python & Distributed Computing (Spark, Hadoop)
