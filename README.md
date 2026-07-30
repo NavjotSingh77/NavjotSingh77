@@ -105,7 +105,7 @@ The project compares different classification models to identify the most effect
 - Reduced query latency by X%
 - Automated data workflows saving Y hours/week
 
-🔗 **[Repository Link] -- **https://github.com/navjotsinghgit/project-2](https://github.com/NavjotSingh77/Credit_Risk_analysis** 
+🔗 **[Repository Link] -- **https://github.com/NavjotSingh77/Credit_Risk_analysis** 
 
 ---
 
