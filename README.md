@@ -80,47 +80,39 @@ I specialize in designing and implementing end-to-end data solutions that handle
 
 ## Featured Projects
 
-### 1. **[Project Name 1]**
+### 1. **[credit_card_fraud_detection]**
 **Technologies:** Python, Pandas, Scikit-learn, AWS  
-**Description:** Brief description of what the project does and business impact  
+**Description:**Credit card fraud is one of the most challenging problems in financial technology due to the highly imbalanced nature of transaction data. This project focuses on building robust fraud detection models by applying data preprocessing, exploratory data analysis (EDA), outlier detection, feature selection, imbalance handling, and multiple machine learning algorithms.
+
+The project compares different classification models to identify the most effective approach for fraud detection while minimizing false negatives and false positives.
+
+
 **Key Achievements:** 
 - Improved X metric by Y%
 - Reduced processing time from X to Y minutes
 - Handled X million records efficiently
 
-🔗 **[Repository Link](https://github.com/navjotsinghgit/project-1)** | 📊 **[Demo/Dashboard](link-if-available)**
-
+🔗 **[Repository Link]([🔗 **[Repository Link]([https://github.com/navjotsinghgit/project-1]())** ** 
 ---
 
 ### 2. **[Project Name 2]**
-**Technologies:** Apache Spark, Python, SQL, BigQuery  
-**Description:** End-to-end data pipeline project  
+**Technologies:** Python Pandas, Scikit-Learn
+**Description:** An end-to-end Machine Learning project that predicts whether a loan applicant is at Good or Bad credit risk using the German Credit Risk Dataset. The project performs comprehensive data preprocessing, exploratory data analysis, feature engineering, model comparison, and hyperparameter tuning to identify the best-performing classifier for housing loan risk assessment.
+
+
 **Key Achievements:**
 - Built scalable ETL pipeline processing X GB daily
 - Reduced query latency by X%
 - Automated data workflows saving Y hours/week
 
-🔗 **[Repository Link](https://github.com/navjotsinghgit/project-2)** | 📊 **[Live Dashboard](link-if-available)**
+🔗 **[Repository Link]([https://github.com/navjotsinghgit/project-2](https://github.com/NavjotSingh77/Credit_Risk_analysis))** 
 
 ---
 
-### 3. **[Project Name 3]**
-**Technologies:** Machine Learning, TensorFlow, Python, Flask  
-**Description:** Predictive modeling or NLP project  
-**Key Achievements:**
-- Achieved X% accuracy with Y ML model
-- Deployed model serving Z predictions/day
-- Improved business metric by X%
-
-🔗 **[Repository Link](https://github.com/navjotsinghgit/project-3)**
-
----
 
 ## GitHub Statistics
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=navjotsinghgit&theme=dark&show_icons=true&count_private=true&include_all_commits=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navjotsinghgit&theme=dark&layout=compact)
 
