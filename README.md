@@ -109,19 +109,6 @@ The project compares different classification models to identify the most effect
 
 ---
 
-
-## GitHub Statistics
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=navjotsinghgit&theme=dark&layout=compact)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=navjotsinghgit&theme=dark)
-
-</div>
-
----
-
 ##  Key Projects by Category
 
 ### **Data Engineering**
@@ -141,15 +128,6 @@ The project compares different classification models to identify the most effect
 - Containerization & Orchestration
 - CI/CD Pipeline Implementation
 - Infrastructure as Code
-
----
-
-##  What I'm Currently Working On
-
--  Exploring advanced techniques in **[specific area]**
-- Contributing to **[open-source project name]**
-- Deepening expertise in **[emerging technology/methodology]**
-- Collaborating on **[current initiatives]**
 
 ---
 
